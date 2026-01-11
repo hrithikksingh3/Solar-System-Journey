@@ -4,7 +4,7 @@
 Click on any planet to view its key details, distance from the Sun, and open in-depth fact panels for deeper learning.
 
 ## 🌌 Live Link
-🔗 **Check out the live version**: [QuickCodeShare](https://nixjourney.onrender.com)
+🔗 **Check out the live version**: [Start Journey](https://nixjourney.onrender.com)
 
 ---
 
